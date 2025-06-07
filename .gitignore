@@ -1,0 +1,26 @@
+# Temporary files and OS-specific artifacts
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Node modules and build artifacts
+node_modules/
+.sass-cache/
+dist/
+build/
+
+# Local Shopify configuration
+config.yml
+config/settings_data.json
+
+# Source maps
+*.map
+
+# Shopify CLI cache
+.shopify/
