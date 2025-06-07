@@ -1,0 +1,13 @@
+{
+  "name": "maneok",
+  "version": "1.0.0",
+  "description": "<!-- **Maneok/MANEOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
