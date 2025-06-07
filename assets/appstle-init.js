@@ -20,7 +20,7 @@
       appstleLoadScript("https://cdn.shopify.com/s/files/1/0660/5445/5602/t/13/assets/appstle-subscription.js?v=1683750752");
 
 
-      window.RS = Window.RS || {};
+      window.RS = window.RS || {};
       RS.Config = {
         "selectors": {
             "payment_button_selectors": "form[action$='/cart/add'] .shopify-payment-button",
