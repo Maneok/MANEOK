@@ -205,7 +205,7 @@ lazySizesConfig.expFactor = 4;
         AOS.refreshHard();
       }
       $('[data-subsection]').each(function(evt, el) {
-        this._onSectionLoad(null, el, $(el).data('section-d'));
+        this._onSectionLoad(null, el, $(el).data('section-id'));
       }.bind(this));
     },
   
